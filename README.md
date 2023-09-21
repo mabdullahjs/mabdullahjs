@@ -1,7 +1,7 @@
 
 <img alt="Coding" style="border-radius:16px;" src="./codingImgs/background.png">
 
-<h3 align="center" style="margin-top: 4px;">MAKING CODE BENEFICIAL!</h3>
+<h3 align="center" style="margin-top: 4px;">A PASSIONATED SOFTWARE ENGINEER!</h3>
 
 <p>
 	I'm a young and enthusiastic person who enjoys coding and also likes to create, design, come up with new ideas, experiment, and take on new challenges. I think in a practical way and I'm always learning new skills and using them in real life, which I find very rewarding.
@@ -84,20 +84,5 @@ I'm looking to join a dynamic and forward-thinking organization that offers lots
 		<img src="./imgs/lambda.png" width="40px" />
 	</a>
 </p>
-<hr>
-<br>
-
-<p align='center'>
-	<img src='https://user-badge.committers.top/pakistan/shehza-d.svg' align="center"
-		title="Ranking in Pakistan for Top Github committer" /></div>
-	<img src='https://wakatime.com/badge/user/2b9bc0da-3bf8-4082-b333-bc011089fbbb.svg' align="center"
-		title="My Coding Stats" />
-</p>
-
-<div align='center'>
-	<h3> ✍️ Random Dev Quote </h3>
-	<img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia' />
-</div>
-
 <hr>
 <br>
