@@ -1,5 +1,5 @@
 
-<img alt="Coding" style="border-radius:16px;" src="./codingImgs/background.png">
+<img alt="Coding" style="border-radius:16px;" src="./background.png">
 
 <h3 align="center" style="margin-top: 4px;">A PASSIONATED SOFTWARE ENGINEER!</h3>
 
