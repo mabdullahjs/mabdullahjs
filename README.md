@@ -4,7 +4,7 @@
 <h3 align="center" style="margin-top: 4px;">A PASSIONATED SOFTWARE ENGINEER!</h3>
 
 <p>
-	Hello, fellow coders and tech enthusiasts! I'm a passionate software engineer, a dedicated MERN stack developer, and deeply in love with the art of programming. Here on my GitHub account, you'll find a treasure trove of my coding adventures and projects that reflect my unending passion for creating innovative solutions.
+	Hello, fellow coders and tech enthusiasts! I'm a passionate software engineer, a dedicated MERN stack developer, and Agentic AI developer, and deeply in love with the art of programming. Here on my GitHub account, you'll find a treasure trove of my coding adventures and projects that reflect my unending passion for creating innovative solutions.
 
 Within this GitHub realm, you'll discover a diverse array of projects, code snippets, and experiments spanning various domains. From web applications harnessing the latest technologies to a wide range of software development projects, my GitHub is a testament to my unwavering commitment to the world of software development.
 
@@ -14,7 +14,7 @@ Programming isn't merely a job. It's a way of life. I'm motivated by the desire 
 
 Feel free to explore, collaborate, or connect if you share the same fervor for software development and the exciting world of AI and chatbots. Together, we can elevate the digital landscape, one line of code at a time!</p>
 
-| Currently Learning | NestJS, PostgreSQL |
+| Currently Learning | Autogen, LangGraph |
 | ------------------ | --------- |
 
 <p align="center">
@@ -62,13 +62,6 @@ Feel free to explore, collaborate, or connect if you share the same fervor for s
 	<a href="https://formik.org/" target="_blank" title="Build Form in REACT" style="text-decoration: none;">
 		<img src="./images/formik.png" width="40px" />
 	</a>
-</p>
-
-<hr>
-
-<h3 align="left">🏫 Plans of Learning :</h3>
-
-<p align="center">
 	<img src="https://skillicons.dev/icons?i=solidity,nestjs,threejs,tensorflow,docker" />
 	<img src="https://skillicons.dev/icons?i=bash,redis,wasm,webflow,jest" />
 	<img src="https://skillicons.dev/icons?i=kubernetes,fastapi,d3,swift,aws" />
@@ -77,5 +70,8 @@ Feel free to explore, collaborate, or connect if you share the same fervor for s
 		<img src="./images/dialogflow.png" width="40px" />
 	</a>
 </p>
+
+<hr>
+
 <hr>
 <br>
