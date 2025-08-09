@@ -72,6 +72,4 @@ Feel free to explore, collaborate, or connect if you share the same fervor for s
 </p>
 
 <hr>
-
-<hr>
 <br>
